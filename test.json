@@ -1,0 +1,62 @@
+{
+    "S1001": {
+        "name": "Alice",
+        "batch": "2024",
+        "attendance": {
+            "total_days": 200,
+            "present_days": 185
+        },
+        "terms": {
+            "Term 1": {
+                "Math": 88,
+                "Physics": 92,
+                "English": 81
+            },
+            "Term 2": {
+                "Math": 91,
+                "Physics": 94,
+                "English": 89
+            }
+        }
+    },
+    "S1002": {
+        "name": "Bob",
+        "batch": "2024",
+        "attendance": {
+            "total_days": 200,
+            "present_days": 190
+        },
+        "terms": {
+            "Term 1": {
+                "Math": 85,
+                "Physics": 90,
+                "English": 88
+            },
+            "Term 2": {
+                "Math": 87,
+                "Physics": 93,
+                "English": 90
+            }
+        }
+    },
+    "S1003": {
+        "name": "Charlie",
+        "batch": "2024",
+        "attendance": {
+            "total_days": 200,
+            "present_days": 195
+        },
+        "terms": {
+            "Term 1": {
+                "Math": 90,
+                "Physics": 95,
+                "English": 92
+            },
+            "Term 2": {
+                "Math": 93,
+                "Physics": 97,
+                "English": 95
+            }
+        }
+    }
+}
