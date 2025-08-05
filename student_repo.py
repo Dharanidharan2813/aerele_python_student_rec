@@ -286,7 +286,7 @@ class Student:
 if __name__ == "__main__":
     system = Student()
     while True:
-        Student.menu()
+        system.menu()
         print("Enter your choice (1-13) or 'q' or 0 to quit:")
         choice = input("Enter your choice: ")
         if choice == "1":
