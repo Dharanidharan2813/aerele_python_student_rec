@@ -1,0 +1,19 @@
+Student ID,Name,Batch,Term,Subject,Marks,Total Days,Present Days
+S1001,Alice,2024,Term 1,Math,88,200,185
+,,,,Physics,92,,
+,,,,English,81,,
+,,,Term 2,Math,91,,
+,,,,Physics,94,,
+,,,,English,89,,
+S1002,Bob,2024,Term 1,Math,85,200,190
+,,,,Physics,90,,
+,,,,English,88,,
+,,,Term 2,Math,87,,
+,,,,Physics,93,,
+,,,,English,90,,
+S1003,Charlie,2024,Term 1,Math,90,200,195
+,,,,Physics,95,,
+,,,,English,92,,
+,,,Term 2,Math,93,,
+,,,,Physics,97,,
+,,,,English,95,,
